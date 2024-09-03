@@ -1,0 +1,8 @@
+Frontend = ReactJS, tailwindcss
+Backend = NodeJS
+DB = MongoDB
+
+This project has been initialized using redux toolkit template:
+npx create-react-app frontend --template redux
+
+JSON Server: Used to create dummy API.
